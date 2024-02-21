@@ -1,6 +1,6 @@
-![GS1 Egypt Data Scientist Quiz](/assets/images/QTA8AWAN5D.png "GS1 Egypt")
-
 # Data Scientist Quiz Model Answer
+
+![GS1 Egypt Data Scientist Quiz](/assets/images/QTA8AWAN5D.png "GS1 Egypt")
 
 ## Question 1 model answer
 
